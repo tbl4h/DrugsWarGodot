@@ -60,7 +60,3 @@ func AnimDirection() -> String:
 		return "up"
 	else :
 		return "side" 
-
-func tetst () -> void:
-	var test : String
-	pass
