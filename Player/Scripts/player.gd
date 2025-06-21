@@ -54,3 +54,6 @@ func AnimDirection() -> String:
 		return "up"
 	else :
 		return "side" 
+
+func Test() -> void:
+	pass
